@@ -1,5 +1,5 @@
 let config = {
-    fsRoot: __dirname + '/uploads',
+    fsRoot: '/1/umdemo/api/public/uploads',
     rootName: 'Root folder',
     port: process.env.PORT || '3020',
     host: process.env.HOST || 'localhost'
